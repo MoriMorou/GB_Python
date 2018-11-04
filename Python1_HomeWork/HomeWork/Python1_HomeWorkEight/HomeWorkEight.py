@@ -8,16 +8,16 @@ class Menu:
     def menu(self):
 
         while True:
-            answer = raw_input('Choose the game mode: \n1. Player vs Computer.\n2. Two players\n3. Exit game.')
-            if answer not in "12" or len(answer) != 1:
+            mode = raw_input('Choose the game mode: \n1. Player vs Computer.\n2. Two players\n3. Exit game.')
+            if mode not in "12" or len(mode) != 1:
                 print("Error, pleas try one more time")
                 continue
-            elif answer == '1':
-                game = Game(5)
-                game.play()
-            # elif answer == '2':
-            #     game = Game(3)
-            #     game.play()
+            elif mode == '1':
+                game = Game(3)
+                game.play_ai_vs_player()
+            elif mode == '2':
+                game = Game(3)
+                game.play_player_vs_player()
             else:
                 break
 

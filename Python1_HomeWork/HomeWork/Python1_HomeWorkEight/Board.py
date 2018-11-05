@@ -2,8 +2,6 @@
 
 from random import choice
 
-from pip._vendor.msgpack.fallback import xrange
-
 
 class Board:
     winner_player = 'Player'
@@ -82,7 +80,6 @@ class Board:
             if self.check_col(i, 'O') or self.check_row(i, 'O') or self.check_left_dg('O') or self.check_right_dg('O'):
                 self.winner = self.winner_AI
                 break
-
             if self.check_col(i, 'X') or self.check_row(i, 'X') or self.check_left_dg('X') or self.check_right_dg('X'):
                 self.winner = self.winner_player_one
                 break

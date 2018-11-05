@@ -28,8 +28,8 @@ class Game:
 
     def play_player_vs_player(self):
         while not self.board.is_ended():
+            self.board.paint()
             try:
-                self.board.paint()
                 position = raw_input('Player One, select a position: x and y\n')
                 self.board.player_one_position(position)
                 self.board.paint()
@@ -37,11 +37,5 @@ class Game:
                 self.board.player_two_position(position)
             except ValueError:
                 print('Ops! Non-existent or occupied position. Try it again, please.')
+                continue
         self.board.paint()
-
-        if self.board.is_a_player_one_win():
-            print('Congratulations! Player one, you win!\n')
-        elif self.board.is_a_player_two_win():
-            print('Congratulations! Player two, You win!\n')
-        else:
-            print('Result: TIE!!!\n')

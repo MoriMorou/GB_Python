@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8f81753-3f34-47f7-9d9e-a0eaa66eaf3c" name="Default Changelist" comment="" />
+    <list default="true" id="d8f81753-3f34-47f7-9d9e-a0eaa66eaf3c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Python1_HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python1_HomeWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,13 +53,43 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="21693628">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="id" value="1" />
+          <entry key="py" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Python" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="391">
               <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
@@ -65,65 +99,65 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/1_builder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/8_json.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/7_sqlite.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-352" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/6_csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-504" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/5_collections.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/4_itertools.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/3_my_exceptions.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/2_delegation.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Board.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
+            <state relative-caret-position="782">
               <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/1_operation_instruction.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkOne/HomeWorkOne.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1526" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/Exampleл_Python_Base4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-612" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2295" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2497" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1868" />
           </provider>
         </entry>
       </file>
@@ -152,13 +186,13 @@
         <option value="$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight.py" />
         <option value="$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py" />
         <option value="$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Board.py" />
+        <option value="$PROJECT_DIR$/Python_lessons_basic/lesson06/home_work/hw06_easy.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="517" />
-    <option name="y" value="108" />
-    <option name="width" value="1992" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-3" />
+    <option name="width" value="1933" />
     <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -167,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,30 +212,20 @@
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
               <item name="Python_lessons_basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
               <item name="Python_lessons_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson08" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
               <item name="Python_lessons_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson08" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
               <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
@@ -210,11 +235,11 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -420,10 +445,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="517" y="108" width="1992" height="1060" extended-state="0" />
+    <frame x="-2" y="0" width="1546" height="848" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19279553" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19218025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,60 +476,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="home work game" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/4_logic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkFive/HomeWorkFive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-471" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight/app.id" />
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight/openweather.py" />
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight/export_openweather.py" />
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Menu.py" />
-    <entry file="file://$PROJECT_DIR$/HomeWork/Examples/Examples_python_base.py" />
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/home_work/app.id">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkOne/HomeWorkOne.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkFour/HomeWorkFour.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Exampleл_Python_Base4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-555" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1910" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2517" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson07/examples/1_overloading.py">
@@ -516,16 +493,6 @@
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson07/examples/3_myIter.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson07/examples/6_types_extension.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -535,15 +502,128 @@
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson07/examples/exceptions.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py">
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/8_json.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/7_sqlite.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/5_collections.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/4_itertools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="357">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/3_my_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/6_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/3_input_output.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/4_logic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/6_cycle_while.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/2_variables.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson02/home_work/hw02_normal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson04/examples/1_link_value.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/home_work/openweather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1560" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson07/home_work/loto.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-438" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson06/home_work/hw06_hard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson06/home_work/hw06_normal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson06/home_work/hw06_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson05/home_work/hw05_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson05/home_work/hw05_hard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson05/home_work/hw05_normal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson04/home_work/hw04_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson04/home_work/hw04_hard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson04/home_work/hw04_normal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson03/home_work/hw03_hard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson03/home_work/hw03_normal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson03/home_work/hw03_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/home_work/hw01_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/home_work/hw01_hard.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/home_work/hw01_normal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson02/home_work/hw02_easy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson02/home_work/hw02_hard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-370" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/home_work/export_openweather.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/home_work/app.id">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/1_builder.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -554,41 +634,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/5_collections.py">
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/2_delegation.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/4_itertools.py">
+    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/HomeWorkEight.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/3_my_exceptions.py">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkOne/HomeWorkOne.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1526" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2295" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2497" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1868" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Exampleл_Python_Base4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Board.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="782">
           <caret line="46" column="42" selection-start-line="46" selection-start-column="42" selection-end-line="46" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/2_delegation.py">
+    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/1_operation_instruction.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/8_json.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/7_sqlite.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-352" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/6_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-504" />
-      </provider>
     </entry>
   </component>
   <component name="masterDetails">

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f81753-3f34-47f7-9d9e-a0eaa66eaf3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python1_HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python1_HomeWork.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2-HomeWork/.idea/Python2-HomeWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2-HomeWork/.idea/Python2-HomeWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2-HomeWork/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2-HomeWork/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2-HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2-HomeWork/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,19 +57,22 @@
     <session id="21693628">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="id" value="1" />
           <entry key="py" value="50" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="50" />
         </counts>
       </usages-collector>
@@ -86,18 +90,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/2_delegation.py">
           <provider selected="true" editor-type-id="text-editor" />
@@ -121,44 +113,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/1_operation_instruction.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkOne/HomeWorkOne.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1526" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examples/Exampleл_Python_Base4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-612" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2295" />
+            <state relative-caret-position="-2635" />
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Examples/file.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2497" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1868" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -190,8 +179,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="-3" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
     <option name="width" value="1933" />
     <option name="height" value="1060" />
   </component>
@@ -212,20 +201,12 @@
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_lessons_basic" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_lessons_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python1_HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_lessons_basic" type="462c0819:PsiDirectoryNode" />
-              <item name="lesson01" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="HomeWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python1_HomeWork" type="b2602c69:ProjectViewProjectNode" />
@@ -238,7 +219,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python2-HomeWork" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
   </component>
   <component name="RecentsManager">
@@ -445,8 +426,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1546" height="848" extended-state="1" />
-    <editor active="true" />
+    <frame x="-3" y="0" width="1546" height="848" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19218025" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -476,14 +456,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="home work game" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python_lessons_basic/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson07/examples/1_overloading.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -626,10 +598,14 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson08/examples/1_builder.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="391">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#48#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -644,41 +620,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#48#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkOne/HomeWorkOne.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1526" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2295" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2497" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1868" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/Exampleл_Python_Base4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-612" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkEight/Board.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
@@ -686,7 +627,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HomeWork/Python1_HomeWorkOne/HomeWorkOne.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Exampleл_Python_Base4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python_lessons_basic/lesson01/examples/1_operation_instruction.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Examples_Python_Base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2635" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/file.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

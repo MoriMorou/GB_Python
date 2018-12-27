@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="935bdddb-cc34-443c-9273-ed58589d054b" name="Default Changelist" comment="" />
     <list default="true" id="935bdddb-cc34-443c-9273-ed58589d054b" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Examples/Akkerman.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Examples/Eratosthen.py" afterDir="false" />

@@ -7,7 +7,9 @@ y1 = float(input())
 x2 = float(input())
 y2 = float(input())
 
-k = (y1 - y2) / (x1 - x2)
-b = y2 - k*x2
-
-print("y = %.2f*x + %.2f" % (k, b))
+if x1 == x2:
+    print(f'x = {x1:.2f}')
+else:
+    k = (y1 - y2) / (x1 - x2)
+    b = y2 - k * x2
+    print("y = %.2f * x + %.2f" % (k, b))

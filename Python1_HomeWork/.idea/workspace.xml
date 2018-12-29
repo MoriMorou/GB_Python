@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8f81753-3f34-47f7-9d9e-a0eaa66eaf3c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python2-HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2-HomeWork/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python2-HomeWork/Lesson_2/HomeWork2/Ex_4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

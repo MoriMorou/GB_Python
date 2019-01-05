@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="935bdddb-cc34-443c-9273-ed58589d054b" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../Python1_HomeWork/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python1_HomeWork/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_4.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Examples/Akkerman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examples/Eratosthen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examples/Recursion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +28,7 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+<<<<<<< HEAD
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -43,12 +51,41 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Python" value="3037" />
+=======
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="py" value="2502" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Python" value="2502" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="12" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,11 +109,35 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="39" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/Recursion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+              <folding>
+                <marker date="1545939135985" expanded="true" signature="43:44" ph="..." />
+                <marker date="1545939135985" expanded="true" signature="43:49" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/Akkerman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <folding>
+                <marker date="1545942845724" expanded="true" signature="123:128" ph="..." />
+              </folding>
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -102,6 +163,12 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+=======
+        <entry file="file://$PROJECT_DIR$/Examples/Eratosthen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
             </state>
           </provider>
         </entry>
@@ -121,8 +188,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson_1/Ex_1.py" />
         <option value="$PROJECT_DIR$/Lesson_1/Ex_3.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_1.py" />
         <option value="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_8.py" />
         <option value="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_2.py" />
@@ -136,6 +203,26 @@
     <option name="x" value="-8" />
     <option name="width" value="1933" />
     <option name="height" value="1038" />
+=======
+        <option value="$PROJECT_DIR$/Lesson_1/Ex_1.py" />
+        <option value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_6.py" />
+        <option value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_8.py" />
+        <option value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_2.py" />
+        <option value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_3.py" />
+        <option value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_5.py" />
+        <option value="$PROJECT_DIR$/Examples/Recurtion.py" />
+        <option value="$PROJECT_DIR$/Examples/Akkerman.py" />
+        <option value="$PROJECT_DIR$/Examples/Rotosthen.py" />
+        <option value="$PROJECT_DIR$/Examples/Eratosthen.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="21" />
+    <option name="y" value="307" />
+    <option name="width" value="1918" />
+    <option name="height" value="828" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -156,18 +243,21 @@
             <path>
               <item name="Python2-HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python2-HomeWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson_1" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python2-HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python2-HomeWork" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson_2" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
             </path>
             <path>
               <item name="Python2-HomeWork" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python2-HomeWork" type="462c0819:PsiDirectoryNode" />
               <item name="Lesson_2" type="462c0819:PsiDirectoryNode" />
               <item name="HomeWork2" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
             </path>
           </expand>
           <select />
@@ -177,14 +267,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python1_HomeWork" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="C:\Users\ASatyukova\Documents\GitHub\GB_Python\Python2-HomeWork\Lesson_2\HomeWork2" />
       <recent name="C:\Users\ASatyukova\Documents\GitHub\GB_Python\Python2-HomeWork\Lesson_2" />
+=======
+      <recent name="C:\Users\ASatyukova\Documents\GitHub\GB_Python\Python2-HomeWork\Lesson_1\HomeWork1" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
     </key>
   </component>
   <component name="RunDashboard">
@@ -199,8 +297,12 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.Ex_3 (1)">
     <configuration name="Ex_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.Eratosthen">
+    <configuration name="Akkerman" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python2-HomeWork" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +310,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2/HomeWork2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ASatyukova\Documents\GitHub\GB_Python\Python2-HomeWork\Lesson_2\HomeWork2\Ex_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examples/Akkerman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Eratosthen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python2-HomeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examples/Eratosthen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -229,6 +352,62 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1/HomeWork1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
+      <module name="Python2-HomeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2/HomeWork2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASatyukova\Documents\GitHub\GB_Python\Python2-HomeWork\Lesson_2\HomeWork2\Ex_2.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_1/HomeWork1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_5.py" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="Ex_3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="Recurtion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
+      <module name="Python2-HomeWork" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson_2/HomeWork2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -297,6 +476,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson_2/HomeWork2/Ex_8.py" />
+=======
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ASatyukova\Documents\GitHub\GB_Python\Python2-HomeWork\Examples\Recursion.py" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -306,6 +492,7 @@
       <method v="2" />
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Python.Ex_2" />
       <item itemvalue="Python.Ex_3 (1)" />
       <item itemvalue="Python.Ex_4" />
@@ -319,6 +506,21 @@
         <item itemvalue="Python.Ex_4" />
         <item itemvalue="Python.Ex_8" />
         <item itemvalue="Python.Ex_2" />
+=======
+      <item itemvalue="Python.Ex_3 (1)" />
+      <item itemvalue="Python.Ex_5" />
+      <item itemvalue="Python.Recurtion" />
+      <item itemvalue="Python.Akkerman" />
+      <item itemvalue="Python.Eratosthen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Eratosthen" />
+        <item itemvalue="Python.Akkerman" />
+        <item itemvalue="Python.Recurtion" />
+        <item itemvalue="Python.Ex_5" />
+        <item itemvalue="Python.Ex_3 (1)" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
       </list>
     </recent_temporary>
   </component>
@@ -340,6 +542,7 @@
     <option name="totallyTimeSpent" value="2635000" />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
@@ -349,6 +552,17 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.20851064" />
+=======
+    <frame x="17" y="246" width="1534" height="662" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18036072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43667296" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -373,15 +587,81 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson_1/Ex_1.py">
+    <entry file="file://$PROJECT_DIR$/Lesson_1/Ex_3.py" />
+    <entry file="file://$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_1.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+=======
+        <state relative-caret-position="170">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson_1/Ex_3.py">
+    <entry file="file://$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_2.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson_1/HomeWork1/Ex_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Recursion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding>
+            <marker date="1545939135985" expanded="true" signature="43:44" ph="..." />
+            <marker date="1545939135985" expanded="true" signature="43:49" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Akkerman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+          <folding>
+            <marker date="1545942845724" expanded="true" signature="123:128" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/wzbca1/homework_1/09_medium.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/Eratosthen.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="187">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
         </state>
@@ -429,6 +709,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="54" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+=======
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+>>>>>>> b7449f13d949bdc7b8327ac2fdbfd75cd6891d8d
         </state>
       </provider>
     </entry>

@@ -3,11 +3,11 @@
 # работает
 
 number = input("Input the number")
-a = 0
-b = 0
+even = 0
+odd = 0
 for i in number:
     if int(i) % 2 == 0:
-        a += 1
+        even += 1
     else:
-        b += 1
-print(f'Четный чисел {a} и нечетный чисел {b}')
+        odd += 1
+print(f'Четный чисел {even} и нечетный чисел {odd}')

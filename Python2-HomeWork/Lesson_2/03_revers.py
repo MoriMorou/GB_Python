@@ -9,7 +9,7 @@ while num > 0:
     num = num // 10
 print(result)
 
-# вариант 2, это не для ДЗ
+# вариант 2, это не для ДЗ (затратно по памяти)
 num = input('Введите целое число: ')
 result = ''
 for i in num:
@@ -18,5 +18,6 @@ print(result)
 
 # вариант 3, и это не для ДЗ
 num = input('Введите целое число: ')
+# тут [start:stop: и направление движенияЪ]
 result = num[::-1]
 print(result)

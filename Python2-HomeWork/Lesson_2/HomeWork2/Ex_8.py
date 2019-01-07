@@ -5,12 +5,12 @@
 
 def check():
     num = str(input())
-    task = int(input())
-    index = 0
+    digit = int(input())
+    count = 0
     for i in num:
-        if int(i) == task:
-            index += 1
-    return index
+        if int(i) == digit:
+            count += 1
+    return count
 
 
 print('Input number and task from 0 - 9 ')

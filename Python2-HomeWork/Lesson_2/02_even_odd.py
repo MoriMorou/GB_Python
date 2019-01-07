@@ -9,6 +9,7 @@ while num > 0:
         even += 1
     else:
         odd += 1
+    # Постепенное уменьшение числа
     num = num // 10
 print(f"четных - {even}, нечетных - {odd}")
 

@@ -3,21 +3,21 @@
 import random
 
 size = int(input("Input size fo the list "))
-myList = [random.randint(1, 100) for _ in range(size)]
-print(myList)
+my_list = [random.randint(1, 100) for _ in range(size)]
+print(my_list)
 
-newList = sorted(myList, key=int)
+newList = sorted(my_list, key=int)
 # print(newList)
-min = newList[0]
-max = newList[size-1]
-print(f'Min number = {min} and max number = {max}')
+min_element = newList[0]
+max_element = newList[size - 1]
+print(f'Min number = {min_element} and max number = {max_element}')
 
-indexMin = myList.index(min)
-indexMax = myList.index(max)
-print(f'Index of min number is {indexMin}, and for max is {indexMax}')
+index_min = my_list.index(min_element)
+index_max = my_list.index(max_element)
+print(f'Index of min number is {index_min}, and for max is {index_max}')
 
-myList[indexMin], myList[indexMax] = myList[indexMax], myList[indexMin]
-print(myList)
+my_list[index_min], my_list[index_max] = my_list[index_max], my_list[index_min]
+print(my_list)
 
 # p.s. есть и другие варианты, но я решила вспомнить сортировку
 

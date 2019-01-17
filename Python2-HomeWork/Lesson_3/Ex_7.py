@@ -4,24 +4,24 @@
 import random
 
 size = int(input("Input size fo the list "))
-myList = [random.randint(-100, 100) for _ in range(size)]
-print(myList)
+my_list = [random.randint(-100, 100) for _ in range(size)]
+print(my_list)
 
-if myList[0] > myList[1]:
+if my_list[0] > my_list[1]:
     min1 = 0
     min2 = 1
 else:
     min1 = 1
     min2 = 0
 
-for i in range(len(myList)):
-    if myList[i] < myList[min1]:
+for i in range(len(my_list)):
+    if my_list[i] < my_list[min1]:
         b = min1
         min1 = i
-        if myList[b] < myList[min2]:
+        if my_list[b] < my_list[min2]:
             min2 = b
-    elif myList[i] < myList[min2]:
+    elif my_list[i] < my_list[min2]:
         min2 = i
 
-print(f'№ {min1 + 1}: {myList[min1]}')
-print(f'№ {min2 + 1}: {myList[min2]}')
+print(f'№ {min1 + 1}: {my_list[min1]}')
+print(f'№ {min2 + 1}: {my_list[min2]}')

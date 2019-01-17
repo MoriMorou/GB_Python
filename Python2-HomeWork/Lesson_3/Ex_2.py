@@ -5,11 +5,11 @@
 import random
 
 size = int(input("Input size fo the list "))
-myList = [random.randint(1, 100) for _ in range(size)]
-print(myList)
-newList = []
+my_list = [random.randint(1, 100) for _ in range(size)]
+print(my_list)
+new_list = []
 
-for i in range(len(myList)):
-    if myList[i] % 2 == 0:
-        newList.append(i)
-print(newList)
+for i in range(len(my_list)):
+    if my_list[i] % 2 == 0:
+        new_list.append(i)
+print(new_list)

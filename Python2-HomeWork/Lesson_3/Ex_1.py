@@ -2,11 +2,11 @@
 
 i = 0
 j = 0
-myList = [0] * 8
+my_list = [0] * 8
 for i in range(2, 100):
     for j in range(2, 10):
         if i % j == 0:
-            myList[j - 2] += 1
+            my_list[j - 2] += 1
 
-for i in range(len(myList)):
-    print(f"Number {i + 2} is a multiple of {myList[i]} numbers")
+for i in range(len(my_list)):
+    print(f"Number {i + 2} is a multiple of {my_list[i]} numbers")

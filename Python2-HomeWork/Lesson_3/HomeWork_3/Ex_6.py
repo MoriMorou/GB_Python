@@ -17,7 +17,7 @@ for i in range(len(my_list)):
         index_max = i
 print(f'The min index is {index_min} and the max is {index_max}')
 
-# поменя местами индексы так как значения их не нужны
+# поменяла местами индексы так как значения их не нужны
 if index_min > index_max:
     index_min, index_max = index_max, index_min
 print('New indexes:')

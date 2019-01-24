@@ -1,6 +1,6 @@
 from collections import Counter
 
-# разные варианты создания
+# разные варианты создания множества
 a = Counter()
 b = Counter('adcadauuuuu')
 c = Counter({'cat': 15, 'dog': 5})
@@ -21,11 +21,11 @@ print('Итератор (ссылка)' , b.elements())
 print('Итератор (ссылку) обвернули в list ', list(b.elements()), '\n')
 
 e = Counter(a=1, b=-2, c=3)
-print(list(e.elements()))
 f = Counter(a=3, b=-1, c=-4)
+print(list(e.elements()))
 print(e, f, sep='\n')
 
-print(e + f)
-print(e - f)
-print(e & f)
-print(e | f)
+print("Сумма", e + f)
+print("Разница", e - f)
+print("Пересечение", e & f) # по меньше элементу
+print("Или (дизьюнция)", e | f) # по макс положительному элементу

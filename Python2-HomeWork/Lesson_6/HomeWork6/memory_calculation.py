@@ -12,6 +12,7 @@ import sys
 # существует, иначе — False.
 # getattr() - Возвращает значение атрибута объекта.
 # https://habr.com/ru/company/mailru/blog/336156/
+# https://habr.com/ru/post/193890/
 
 
 def show_sizeof(x, memory_list, level=0):

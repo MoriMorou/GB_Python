@@ -1,5 +1,7 @@
 array = [9, 5, 0, 4, 8, 1, 6, 3, 2, 7]
 
+# Сортировка пузырьком
+
 n = 1
 while n < len(array):
     for i in range(len(array) - 1):

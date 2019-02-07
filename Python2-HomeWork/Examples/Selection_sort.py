@@ -1,3 +1,5 @@
+# сортировка выбором (On^^2)
+
 def selection_sort(array):
     for i in range(len(array)):
         idx_min = i

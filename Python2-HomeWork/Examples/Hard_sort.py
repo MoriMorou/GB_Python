@@ -1,3 +1,7 @@
+
+from operator import attrgetter
+
+# Сортировка сложных структур
 class Person:
     def __init__(self, name, age):
         self.name = name
@@ -17,17 +21,13 @@ people = [p_1, p_2, p_3, p_4, p_5]
 
 print(people)
 
-
-# a = sorted(people)
-
 def by_name(person):
     return person.name
 
-
+# сортировка по имени
 b = sorted(people, key=by_name)
 print(b)
 
-from operator import attrgetter
-
+# см модуль оператор, который используем(см выше) для того что бы не писать для каждого парамметра отдельную функцию
 c = sorted(people, key=attrgetter('age'))
 print(c)

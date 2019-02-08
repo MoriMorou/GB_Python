@@ -7,14 +7,14 @@ import random
 
 def bubble_sort(array):
     # ставим флаг для отражения признака отсортировки
-    isSort = False
+    is_sort = False
     n = 1
-    while not isSort:
-        isSort = True
+    while not is_sort:
+        is_sort = True
         for i in range(len(array) - n):
             if array[i] < array[i + 1]:
                 array[i], array[i + 1] = array[i + 1], array[i]
-                isSort = False
+                is_sort = False
         n += 1
 
 

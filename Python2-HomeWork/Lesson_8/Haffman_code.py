@@ -17,7 +17,7 @@ class Leaf:
         self.ch = ch
 
     def walk(self, code, acc):
-        code[self.ch] = acc
+        code[self.ch] = acc or "0"  # "0" если строка ссостоит от одного символа
 
 # heapq используем для очереди с приоритетами
 # freq частота символа
@@ -38,11 +38,14 @@ def huffman_code(string):
         freq2, _count2, right = heapq.heappop(h)
         heapq.heappush(h, (freq1 + freq2, count, Node(left, right)))
         count += 1
-    # корень дерева
-    [(_freq, _count, root)] = h
-    # обходим дерево с корня и заполняем словарь
+
     code = {}
-    root.walk(code, "")
+    # выводим через if  так как должны учесть вариант с пустой строкой
+    if h:
+        # корень дерева
+        [(_freq, _count, root)] = h
+        # обходим дерево с корня и заполняем словарь
+        root.walk(code, "")
     return code
 
 

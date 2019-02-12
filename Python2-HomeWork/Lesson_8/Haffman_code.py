@@ -3,34 +3,47 @@ from collections import Counter
 
 # узел
 class Node:
-    def __init__(self, left=None, right=None):
+    def __init__(self, left, right):
         self.left = left
         self.right = right
+
+    def walk(self, code, acc):
+        self.left.walk(code, acc + "0")
+        self.right.walk(code, acc + "1")
 
 #  лист
 class Leaf:
     def __init__(self, ch):
         self.ch = ch
 
+    def walk(self, code, acc):
+        code[self.ch] = acc
 
 # heapq используем для очереди с приоритетами
 # freq частота символа
 # queue очередь
+# counter() для подсчета символов в строке
 
 
 def huffman_code(string):
-    # строим очередь в виде списка с парами частота и символ
-    queue = [(freq, Leaf(ch)) for ch, freq in Counter(string).items()]
+    # строим очередь в виде списка с парами частота, порядковый номер (нужно для книукальности) и символ
+    h = []
+    for ch, freq in Counter(string).items():
+        h.append((freq, len(h), Leaf(ch)))
     # строим очередь
-    heapq.heapify(queue)
-    while len(queue) > 1:
-        freq1, left = heapq.heappop(queue)
-        freq2, right = heapq.heappop(queue)
-        heapq.heappush(freq1 + freq2, Node(left, right))
-
-
-    result = {}
-    return result
+    heapq.heapify(h)
+    count = len(h)
+    while len(h) > 1:
+        freq1, _count1, left = heapq.heappop(h)
+        freq2, _count2, right = heapq.heappop(h)
+        heapq.heappush(h, (freq1 + freq2, count, Node(left, right)))
+        count += 1
+    # корень дерева
+    [(_freq, _count, root)] = h
+    # обходим дерево с корня и заполняем словарь
+    code = {}
+    root.walk(code, "")
+    return code
 
 
 if __name__ == '__main__':

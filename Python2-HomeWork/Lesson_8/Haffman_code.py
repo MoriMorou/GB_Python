@@ -56,10 +56,10 @@ def huffman_decode(code, encoded):
     result = ""
     new_code = {key: value for value, key in code.items()}
     while encoded:
-        for k in new_code:
-            if encoded.startswith(k):
-                result += new_code[k]
-                encoded = encoded[len(k):]
+        for ch in new_code:
+            if encoded.startswith(ch):
+                result += new_code[ch]
+                encoded = encoded[len(ch):]
     return print(result)
 
 

@@ -1,6 +1,7 @@
 import heapq
 from collections import Counter
 
+
 # узел
 class Node:
     def __init__(self, left, right):
@@ -11,6 +12,7 @@ class Node:
         self.left.walk(code, acc + "0")
         self.right.walk(code, acc + "1")
 
+
 #  лист
 class Leaf:
     def __init__(self, ch):
@@ -18,6 +20,7 @@ class Leaf:
 
     def walk(self, code, acc):
         code[self.ch] = acc or "0"  # "0" если строка ссостоит от одного символа
+
 
 # heapq используем для очереди с приоритетами
 # freq частота символа
@@ -49,6 +52,17 @@ def huffman_code(string):
     return code
 
 
+def huffman_decode(code, encoded):
+    result = ""
+    new_code = {key: value for value, key in code.items()}
+    while encoded:
+        for k in new_code:
+            if encoded.startswith(k):
+                result += new_code[k]
+                encoded = encoded[len(k):]
+    return print(result)
+
+
 if __name__ == '__main__':
     string = input("Input the string for encoding: ")
     code = huffman_code(string)
@@ -59,3 +73,4 @@ if __name__ == '__main__':
     for ch in sorted(code):
         print(f'{ch}: {code[ch]}')
     print(encoded)
+    huffman_decode(code, encoded)

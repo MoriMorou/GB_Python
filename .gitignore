@@ -108,3 +108,4 @@ crashlytics.properties
 crashlytics-build.properties
 
 /*.zip
+Data_Science/HW_3_Matplotlib/creditcard.csv

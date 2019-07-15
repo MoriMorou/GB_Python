@@ -1,0 +1,5 @@
+1. https://docs.python.org/3/library/venv.html
+2. https://docs.python.org/3/library/stdtypes.html
+3. https://chardet.readthedocs.io/en/latest/usage.html
+4. https://docs.python.org/3/library/pickle.html
+5. https://bitbucket.org/marbleperformer/advancedpython-2019-07-09/src/master/ (скачен и приложен к папке урока)

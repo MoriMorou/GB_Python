@@ -1,0 +1,69 @@
+'''
+1. Реализовать приведение строк "разработка", "сокет", "декоратор" к типу bytes используя нативные методы строк;
+'''
+
+string_list = ('разработка', 'сокет', 'декоратор')
+byte_strings = (string.encode('utf-8') for string in string_list)
+
+for i in range(len(string_list)):
+    print(string_list[i], ':', byte_strings.__next__())
+
+print('\n')
+'''
+2. Реализовать приведение полученных экземпляров типа bytes к типу str;
+'''
+
+byte_strings = (string.encode('utf-8') for string in string_list)
+new_string_list = (string.decode('utf-8') for string in byte_strings)
+
+for i in range(len(string_list)):
+    print(string_list[i], ':', new_string_list.__next__())
+
+print('\n')
+'''
+3. Реализовать приведение полученных строк и байтовых последовательностей с использование различных кодировок utf-8 latin-1.
+'''
+
+byte_strings = (string.encode('utf-8') for string in string_list)
+new_string_list = (string.decode('latin-1') for string in byte_strings)
+
+for i in range(len(string_list)):
+    print(string_list[i], ':', new_string_list.__next__())
+
+print('\n')
+'''
+5. Выполнить пинг веб-ресурсов yandex.ru, youtube.com и преобразовать результаты из байтовового в строковый тип на кириллице.
+'''
+import subprocess
+
+hostname = 'yandex.ru'
+response = subprocess.Popen(f'ping {hostname}', stdout=subprocess.PIPE)
+for line in response.stdout:
+    print(line.decode('cp866'), end='')
+
+hostname2 = 'youtube.com'
+response2 = subprocess.Popen(f'ping {hostname2}', stdout=subprocess.PIPE)
+for line2 in response2.stdout:
+    print(line2.decode('cp866'), end='')
+
+print('\n')
+'''
+6. Создать текстовый файл test_file.txt, заполнить его тремя строками: «сетевое программирование», «сокет», «декоратор». 
+Проверить кодировку файла по умолчанию. Принудительно открыть файл в формате Unicode и вывести его содержимое.
+'''
+import locale
+
+data = open("test_file.txt", "w", encoding='utf-8')
+
+list = ['сетевое программирование', 'сокет', 'декоратор']
+
+for _ in list:
+    data.write(_ + '\n')
+data.close()
+
+type = locale.getpreferredencoding("test_file.txt")
+print('The encoding is', type)
+
+with open('test_file.txt', encoding='utf-8') as data:
+    for _ in data:
+        print(_, end='')

@@ -1,0 +1,4 @@
+1. https://pyyaml.org/wiki/PyYAMLDocumentation
+2. https://bitbucket.org/marbleperformer/advancedpython-2019-07-09/pull-requests/1/-------/diff
+3. https://docs.python.org/3/library/json.html
+4. https://docs.python.org/3/library/csv.html

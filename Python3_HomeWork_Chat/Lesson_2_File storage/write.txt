@@ -1,0 +1,5 @@
+First line
+Second line
+New data for the file
+Absolutely another test
+ !!!!Absolutely another test (mid position)!!! 

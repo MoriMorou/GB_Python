@@ -1,0 +1,5 @@
+HOST = 'localhost'
+PORT = 7777
+ENCODING = 'utf-8'
+BUFFERSIZE = 1024
+MAX_CLIENTS = 10

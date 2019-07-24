@@ -1,0 +1,4 @@
+port: 7799
+buffersize: 4096
+encoding: 'cp866'
+max_clients: 25

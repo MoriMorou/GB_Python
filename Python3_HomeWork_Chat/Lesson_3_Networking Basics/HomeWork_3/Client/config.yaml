@@ -1,0 +1,4 @@
+host: localhost
+port: 7799
+buffersize: 4096
+encoding: 'cp866'

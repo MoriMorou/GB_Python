@@ -2,11 +2,13 @@ import json
 import yaml
 import socket
 from datetime import datetime
+# Аргумент парсинга командной строки
 from argparse import ArgumentParser
 
 
 parser = ArgumentParser()
 
+#  Конфигурация парсера
 parser.add_argument(
     '-c', '--config', type=str, required=False,
     help='Sets config file path'
@@ -14,6 +16,7 @@ parser.add_argument(
 
 args = parser.parse_args()
 
+# Дефолтную конфигурацию описываем, как словарь
 config = {
     'host': 'localhost',
     'port': 8000,
@@ -30,7 +33,7 @@ host, port = config.get('host'), config.get('port')
 try:
     sock = socket.socket()
     sock.connect((host, port))
-    print('Clien was started')
+    print('Client was started')
 
     action = input('Enter action: ')
     data = input('Enter data: ')

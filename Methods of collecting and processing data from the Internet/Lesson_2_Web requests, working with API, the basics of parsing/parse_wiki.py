@@ -64,6 +64,10 @@ def parse_links_from_topic(wiki_topic):
 
     return len(links)
 
+<<<<<<< HEAD
 topic = 'Льгов'
 links_len = parse_links_from_topic(topic)
 print('Количество доступных ссылок', links_len)
+=======
+print(return_words('Здравствуйте!'))
+>>>>>>> master

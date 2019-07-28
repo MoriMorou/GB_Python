@@ -1,0 +1,5 @@
+Another string
+Hello world
+Some string
+Absolutelly another text
+Кирилица

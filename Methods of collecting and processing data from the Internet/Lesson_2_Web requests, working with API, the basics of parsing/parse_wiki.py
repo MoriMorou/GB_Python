@@ -18,4 +18,4 @@ def return_words(topic):
     return words_counter.most_common(10)
 
 
-print(return_words('Трям!_Здравствуйте!'))
+print(return_words('Здравствуйте!'))

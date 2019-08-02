@@ -1,0 +1,4 @@
+host = 'localhost'
+port = 8080
+buffersize = 1024
+encoding = 'utf-8'

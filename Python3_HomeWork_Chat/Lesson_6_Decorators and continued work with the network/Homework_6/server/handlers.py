@@ -6,6 +6,7 @@ from protocol import (
     validate_request, make_response
 )
 
+logger = logging.getLogger('decorators')
 
 @compression_midleware
 def handle_default_request(raw_request):
@@ -20,13 +21,13 @@ def handle_default_request(raw_request):
             try:
                 response = controller(request)
             except Exception as err:
-                logging.critical(err)
+                logger.critical(err)
                 response = make_response(request, 500, 'Internal server error')
         else:
-            logging.error(f'404 - request: {request}')
+            logger.error(f'404 - request: {request}')
             response = make_response(request, 404, 'Action not found')
     else:
-        logging.error(f'400 - request: {request}')
+        logger.error(f'400 - request: {request}')
         response = make_response(request, 400, 'Wrong request')
 
 

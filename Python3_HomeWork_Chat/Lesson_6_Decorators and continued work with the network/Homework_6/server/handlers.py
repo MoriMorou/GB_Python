@@ -20,13 +20,13 @@ def handle_default_request(raw_request):
             try:
                 response = controller(request)
             except Exception as err:
-                logger.critical(err)
+                logging.critical(err)
                 response = make_response(request, 500, 'Internal server error')
         else:
-            logger.error(f'404 - request: {request}')
+            logging.error(f'404 - request: {request}')
             response = make_response(request, 404, 'Action not found')
     else:
-        logger.error(f'400 - request: {request}')
+        logging.error(f'400 - request: {request}')
         response = make_response(request, 400, 'Wrong request')
 
 

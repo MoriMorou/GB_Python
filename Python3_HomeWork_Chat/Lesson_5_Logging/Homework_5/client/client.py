@@ -44,7 +44,7 @@ logger.setLevel(logging.DEBUG)
 try:
     sock = socket.socket()
     sock.connect((host, port))
-    logger.debug(f'Client started with {host}:{port} /p')
+    logger.debug(f'Client started with {host}:{port}')
     action = input('Enter Action: ')
     data = input('Enter data: ')
     request = {

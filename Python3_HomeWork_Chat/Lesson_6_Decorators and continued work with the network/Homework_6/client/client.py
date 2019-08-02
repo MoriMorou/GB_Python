@@ -44,7 +44,7 @@ try:
     sock = socket.socket()
     sock.connect((host, port))
     print('Client started')
-    logger.debug(f'Client started with {host}:{port} /p')
+    logger.debug(f'Client started with {host}:{port}')
     action = input('Enter Action: ')
     data = input('Enter data: ')
 

@@ -43,14 +43,13 @@ logging.basicConfig(
 
 try:
     sock = socket.socket()
-
     sock.bind((host, port))
     sock.listen(5)
-    logging.debug(f'server started with {host}:{port}')
+    logging.info(f'server started with {host}:{port}')
 
     while True:
         client, address = sock.accept()
-
+        logging.info(f'Client was started {address[0]}:{address[1]}')
         b_request = client.recv(buffer_size)
         b_response = handle_default_request(b_request)
         client.send(b_response)

@@ -33,6 +33,7 @@ def write_mongoDB(data):
     avito_db = db.htc
     avito_db.drop()
     avito_db.insert_one(data)
+    search_by_price(avito_db)
 
 def get_page_data(html):
     soup = BeautifulSoup(html, 'lxml')
@@ -68,6 +69,16 @@ def get_page_data(html):
         write_mongoDB(data)
         pprint.pprint(data)
 
+
+def search_by_price(avito_db):
+    try:
+        price = int(input('\nEnter an amount to search for ads with a price less than the entered amount: '))
+    except ValueError:
+        print('Error. Please, inter the number, not characters')
+        exit(1)
+    db = avito_db.find({'price': {'$lt': price}})
+    for _ in db:
+        pprint.pprint(_)
 
 def main():
     url = "https://www.avito.ru/moskva/telefony/htc?p=20&q=htc"

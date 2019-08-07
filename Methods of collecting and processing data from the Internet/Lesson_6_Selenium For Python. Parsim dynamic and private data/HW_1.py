@@ -8,9 +8,9 @@ def mail_site():
     driver = webdriver.Chrome()
     driver.get('https://mail.ru')
     elem = driver.find_element_by_id('mailbox:login')
-    elem.send_keys('Mori_morou@mail.ru')
+    elem.send_keys('mori_morou_gb@mail.ru')
     elem = driver.find_element_by_id('mailbox:password')
-    elem.send_keys('Volkodav13')
+    elem.send_keys('Moscow!13')
     elem.send_keys(Keys.RETURN)
     time.sleep(8)  # Download page maybe so long
     letters_class_name = 'llc js-tooltip-direction_letter-bottom js-letter-list-item llc_normal'
@@ -35,7 +35,7 @@ def mail_site():
 
 
 def mongoDB_data():
-    client = MongoClient('mongodb://127.0.0.1:27017')
+    client = MongoClient("mongodb+srv://mori:Morou4774@cluster0-t3zhj.gcp.mongodb.net/GBdb?retryWrites=true&w=majority")
     data_base = client['db_mail_letters']  # db name
     mail_letters = data_base.mail_letters  # collection name
     return mail_letters

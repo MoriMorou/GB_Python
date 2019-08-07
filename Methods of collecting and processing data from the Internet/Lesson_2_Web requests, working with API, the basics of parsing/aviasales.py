@@ -5,7 +5,6 @@
 # другие параметры по желанию)
 
 import requests
-<<<<<<< HEAD
 import pprint
 import json
 
@@ -32,7 +31,7 @@ def get_best_price(place_from, place_to):
 
 best_price = get_best_price('Москва', 'париж')
 pprint.pprint(best_price)
-=======
+
 import datetime
 
 dep = input('Введите пункт отправления: ')
@@ -77,4 +76,3 @@ with open('aviasales_log.txt', 'w') as file:
         file.write('\n')
         print(current_str)
 file.close()
->>>>>>> master

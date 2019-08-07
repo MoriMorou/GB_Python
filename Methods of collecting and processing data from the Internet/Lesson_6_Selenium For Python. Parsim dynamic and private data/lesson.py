@@ -11,6 +11,6 @@ elem = driver.find_element_by_id("user_email")
 elem.send_keys('example-for-geekbrains@mail.ru')
 elem = driver.find_element_by_id("user_password")
 elem.send_keys('password-example')
-elem.send_keys(Keys.RETURN)   #эмитация нажатия кнопки enter
+elem.send_keys(Keys.RETURN)   # имитация нажатия кнопки enter
 
 driver.close()

@@ -34,5 +34,5 @@ def onlinetrade_site():
                    "link": link,
                    "price": price}
         top_hits.insert_one(top_hit)
-        
+
 onlinetrade_site()
